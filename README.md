@@ -1,1 +1,1 @@
-<h1>Failed RDP to IP Geolocation Information
+Failed RDP to IP Geolocation Information
